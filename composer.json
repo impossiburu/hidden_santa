@@ -1,0 +1,9 @@
+{
+    "name": "hokage/santa",
+    "autoload": {
+        "psr-4": {
+            "Hokage\\Santa\\": "src/"
+        }
+    },
+    "require": {}
+}
